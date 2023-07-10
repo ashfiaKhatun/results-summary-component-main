@@ -1,5 +1,7 @@
 # Frontend Mentor - Results summary component
 
+live server: https://ashfiakhatun.github.io/results-summary-component-main/
+
 ![Design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
